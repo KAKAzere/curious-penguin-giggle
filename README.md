@@ -7,3 +7,5 @@ No strict roadmap. No perfect notes.
 Just learning something new and writing it down.
 
 > Learn. Build. Explore.
+
+Currently learning: Git branching and pull request workflows.
